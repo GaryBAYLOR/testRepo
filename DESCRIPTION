@@ -1,0 +1,13 @@
+Package: lasso.poisson
+Type: Package
+Title: Poisson regression with lasso regularity
+Version: 0.1.0
+Author: Youjiao Yu
+Maintainer: Youjiao Yu <Youjiao_Yu@baylor.edu>
+Description: Implementation of Poisson regression with lasso regularity
+License: GPL >= 2
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 0.12.8), Matrix
+LinkingTo: Rcpp
+RoxygenNote: 6.0.1
